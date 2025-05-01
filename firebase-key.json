@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "meetjoy-63c28",
+  "private_key_id": "a6c5a4f9f332ad5e3738366991ef9f10f2ede535",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7TS+u7cCyhYIw\nuL9w8u2J7ItsRMWfG5vsdZZH2e5/R9OgYwIIhftUj0+UMhd53UDG8Mz5aex1Iub6\n8cJ3OQjXRLMt8lJ8lxyNaTpb4sjPwVylJUE1+BrrbJy3CoCPPr0MVG66dkbm+so+\nYk2tmlvjl6Se0/qrm+Ko0Yoicc94HMiKABZCbOSLuaiY+cdyT9GtuUFlQUw52ANi\nLMuTG5ipd5hAL/gxKbRua34F7iy60bXXxdsHuGLT0n27W62QPPsWeB0Fy7CCMtkj\nAHaC5k5SaqR5dMdzt0jQZICDePnDj5tdkPvjSp9mTno87DGa3z31znGiYfaQWn7h\nzuF40MoZAgMBAAECggEAE5gXjO1CY2qkHAS3wlEnmG4uh70KD4ML5MjIV+vsj1Qs\nR3MUG2Ao0sfLQ22aFx2WUTmPt+fk3Lwx/b6c4WwOCLcfJ4daKb6FNiXz/PjUmSdZ\nUc177PFvn4FVQ7DNki62CDws+US2ViOWVMBj7+1d/4k1p4f1iU5df9ur376YPbBX\nKWgwWSocZUSs5qhMXvf9xYPkSICEl4imAaJUcIUlIJAjBIvP9gwkc1MAPA0G9vs2\nRAcjrPIR/ZLCuXwRSnqCRUQDhWIwxJ0JAsdvktw5TAYaCLAtO2aV3uiEI0MsZJC2\nySg7G38zNmPQZmBT8ii56XpE5/5vdFDkykvjy7DUoQKBgQDvvpchf/uET6Y5vgOP\n5KhbH718GUROOWLJy6Cu91e6/Ne22nXBMOqH0Tk2k1swoGnnRD95w97/Exbrj5Oq\nLq6yvD+ePWpRhfz2ixcRoEVRskiuAVHnsj6seUn3uFgHN1KAq589YkcqQFPht7X8\nlUtNVAKjqPE7EeX7jo+emaEZlwKBgQDIAE6afyPM/Zqrq0WQADLJZGZYZmUN1PLH\nGC19lbtKfiB+WO0ghx0G/uWsv3JP5I4lO4AeMzSJtAJbDHYPrsgOaOv+lMmxLUgy\nDxU3sX9gFr7chrDXjov61AcBCP0dRiX6XSVDSyiL8Nf9Z5yUhKgZxcjgtYHHo3uk\nEJuixoTPzwKBgHetMW5En/51cCoE42xSHYSXfJRVXJab6OeJIaYVzJKIIvqhZQTS\ncVDpLWFD/9JvUU5j8DfNgiTcl6VxX6olcYnBlRRd3hPiCdvcpOBknBXjJIrQF93M\nSaL5TOY+/JplkGawxWX0CEhcIkNb3JnAwP1SAZtG+1ycW6zOhn0KfbPzAoGAPDRb\ndQZwsHRm6uZTulVU9GrUpCeuo8tGicgtaXB5QKNXBLGgL/p8Mm7olGfM8V/LqkmO\n94hSeGFHlEDcCTyD3FKZN7lyPXN0GB2SNYGo5jPyoE+rTDgMyySoNxeNmhJTvFnt\nraQiQH3vhsh5yftk3t066um4d3Au9+RH9Wfs8uECgYAdLqk85/SLGowy6TAHb9XB\n1k8hccsJZ6YhXVj8c/hzmG/2Lk+uhXA1jXXssZfBBnRlbXBRWomN6tPE0palnRHW\nYdPVJp1tvauBZtwEE6X7EBx+vQssxytQw67SEauxp/TJC2erJrmh4GAtvUr6YZGh\nAtrCTB2QgPP5BcjePFJfTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@meetjoy-63c28.iam.gserviceaccount.com",
+  "client_id": "101110729524321181122",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40meetjoy-63c28.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
