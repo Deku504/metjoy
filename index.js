@@ -31,9 +31,7 @@ admin.initializeApp({
     client_id: process.env.CLIENT_ID,
     type: "service_account",
   }),
-  projectId: process.env.PROJECT_ID // 👈 importante para Render
 });
-
 
 // Ruta para enviar notificación
 app.post("/send-notification", async (req, res) => {
